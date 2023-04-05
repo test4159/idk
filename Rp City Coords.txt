@@ -1,0 +1,18 @@
+CEO Office Building: -4093 67 -2488
+Old Burnt PentHouse: -3881 105 -2864
+New Penthouse: -3898 93 -2775
+Normal House: -3957 77 -3044
+Pre Rich Office: -3933 68 -2867
+Lab House: -4058 68 -2957
+Alleyway: -4151 67 -2924
+Underground: -3957 57 -2972
+Totally Normal Suburbs House: -4218 69 -3074
+Chemical Manufacturing Warehouse: -3891 69 -2087
+Jewlery Store: -4022 67 -2816
+Circus: -3233 67 -2601
+Safehouse: -4264 75 -2965
+Mall: -4116 67 -2238
+Underground Labratories: -3706 19 -2547
+Under. Labs. Entrance: -4158.534 68.16918 -2653.652
+Flip: -3842 84 -2161
+Mansion: -3976 67 -2973
